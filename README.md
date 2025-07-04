@@ -1,4 +1,3 @@
-# Controlling_Robo_Car_with_Hand_Gesture_With_Pytorch
 # Hand Gesture Controlled Robot Car (PyTorch + OpenCV + Flask + Raspberry Pi + Arduino + Bluetooth)
 
 This project demonstrates a hand gesture-controlled robot car using a laptop (with webcam), Raspberry Pi, Arduino Uno, HC-05 Bluetooth module, and L298N motor driver. The system uses a custom-trained PyTorch model to detect hand gestures in real-time. The gesture commands are sent from the laptop to the Raspberry Pi over HTTP (using Flask), and from the Pi to the Arduino via Bluetooth, which then drives the motors accordingly.
