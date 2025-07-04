@@ -4,7 +4,7 @@ import cv2
 import os
 
 
-gesture_label = 'left'  
+gesture_label = 'left'#(Right, Left, Forward, Backward, stop)
 dataset_path = 'Hand_gesture_datasets'
 save_path = os.path.join(dataset_path, gesture_label)
 os.makedirs(save_path, exist_ok=True)
