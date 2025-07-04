@@ -71,15 +71,3 @@ Arduino Uno (L298N Motor Driver + Motors)
 
 ---
 
-## Hand Gestures and Corresponding Commands
-
-| Gesture        | Action     | Command |
-|----------------|------------|---------|
-| Open Palm      | Stop       | S       |
-| Fist           | Forward    | F       |
-| Point Left     | Left       | L       |
-| Point Right    | Right      | R       |
-| Thumb Down     | Backward   | B       |
-
----
-
